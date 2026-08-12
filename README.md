@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shankar G L
 
-🎓 **1st-Year Information Science Engineering Student** at JSS Science and Technological University, Mysuru.
+🎓 **2ND-Year Information Science Engineering Student** at JSS Science and Technological University, Mysuru.
 
 💻 Passionate about **DSA, Problem Solving, Web Development, and AI/ML**.
 🤖 Currently exploring **Generative AI, LangChain, and LangGraph**.
