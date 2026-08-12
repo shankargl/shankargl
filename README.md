@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Shankar G L
 
+![Profile Views](https://komarev.com/ghpvc/?username=shankargl&label=Profile%20Views&color=0e75b6&style=flat)
+
 🎓 **2ND-Year Information Science Engineering Student** at JSS Science and Technological University, Mysuru.
 
 💻 Passionate about **DSA, Problem Solving, Web Development, and AI/ML**.
