@@ -37,11 +37,20 @@
 
 **AI/ML Projects • Generative AI • Web Applications • Open Source Projects**
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shankar-g-l&show_icons=true&theme=dark&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shankar-g-l&theme=dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shankargl&show_icons=true&theme=dark&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shankargl&theme=dark&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankargl&layout=compact&theme=dark&hide_border=true"/>
+
 </p>
 
 ### 🧩 LeetCode
