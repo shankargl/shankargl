@@ -40,17 +40,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shankargl&theme=github_dark" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shankargl&show_icons=true&theme=dark&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shankargl&theme=dark&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankargl&layout=compact&theme=dark&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shankargl&theme=github_dark" />
 </p>
 
 ### 🧩 LeetCode
