@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=seaborn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ### 🤝 Looking to Collaborate On
