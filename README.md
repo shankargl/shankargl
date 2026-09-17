@@ -6,7 +6,7 @@
 
 💻 Passionate about **DSA, Problem Solving, Web Development, and AI/ML**.
 🤖 Currently exploring **Generative AI, LangChain, and LangGraph**.
-🧠 Solved **400+ DSA problems** and continuously improving my problem-solving skills.
+🧠 Solved **500+ DSA problems** and continuously improving my problem-solving skills.
 🚀 Aspiring **AI/ML Engineer** focused on building real-world projects.
 
 ### 🚀 Currently Working On
